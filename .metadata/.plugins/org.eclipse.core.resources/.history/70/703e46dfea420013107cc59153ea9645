@@ -1,0 +1,18 @@
+package dessignPatterns.composite.headfirst;
+
+public class MenuItem {
+	String name;
+	String description;
+	boolean vegetarian;
+	double price;
+	public MenuItem(String name, String description, boolean vegetarian,
+			double price) {
+		super();
+		this.name = name;
+		this.description = description;
+		this.vegetarian = vegetarian;
+		this.price = price;
+	}
+	
+	
+}

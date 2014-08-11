@@ -1,0 +1,15 @@
+package dessignPatterns.command.headFirstDP;
+
+public class C_CeilingFanOffCommand extends C_Command{
+
+	@Override
+	public void execute() {
+		device.off();
+		
+	}
+	
+	public C_CeilingFanOffCommand(D_ElectricDevice device) {
+		this.device = device;
+	}
+
+}

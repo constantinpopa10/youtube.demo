@@ -1,0 +1,12 @@
+{
+  "C:\\Program Files (x86)\\Java\\jdk1.8.0\\jre\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:ovrm:1.0.0",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.8.0\\jre\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "D:\\Dropbox\\JavaWorkspace\\MiscJava\\src": {
+    "location": "D:\\Dropbox\\JavaWorkspace\\MiscJava\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\Dropbox\\JavaWorkspace\\MiscJava\\src\u0027. Skipped."
+  }
+}

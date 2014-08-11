@@ -1,0 +1,73 @@
+package apache.commons.commons;
+
+import java.util.*;
+import org.apache.commons.collections.*;
+public class ChainedTransformer
+{
+public static void main(String[] args)
+{
+  List<OldBill> aList = Arrays.asList(new OldBill("A1"), new OldBill("A2"),
+                                      new OldBill("A3"), new OldBill("A4"));
+  Transformer[] chainedTransformer = new Transformer[]{
+          new Transformer() {
+              public Object transform(Object o) {
+                  return ((OldBill )o).getId().replace('A', 'Z');
+              }
+          },
+          new Transformer() {
+              public Object transform(Object o) {
+                  char[] c = ((String) o).toCharArray();
+                  int x = Integer.parseInt(String.valueOf(c[1])) + 500;
+                  return new NewBill( String.valueOf(c[0]) + x );
+              }
+          }
+  };
+  System.out.println("The aList");
+  CollectionUtils.forAllDo(aList, PrintIt.getInstance());
+  List<NewBill> bList = (List<NewBill>) CollectionUtils.collect(aList, TransformerUtils.chainedTransformer(chainedTransformer));
+  System.out.println("\nThe bList");
+  CollectionUtils.forAllDo(bList, PrintIt.getInstance());
+}
+}
+package com.blogspot.apachecommonstipsandtricks.transformersexamples;
+public class OldBill
+{
+private String id;
+public OldBill(String id)
+{
+  this.id = id;
+}
+public String getId()
+{
+  return id;
+}
+public void setId(String id)
+{
+  this.id = id;
+}
+@Override public String toString()
+{
+  return "OldBill{id='" + id + "\'}";
+}
+}
+
+public class NewBill
+{
+private String id;
+public NewBill(String id)
+{
+  this.id = id;
+}
+public String getId()
+{
+  return id;
+}
+public void setId(String id)
+{
+  this.id = id;
+}
+@Override public String toString()
+{
+  return "NewBill{id='" + id + "\'}";
+}
+}

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="dessignPatterns.command.headfirst.C_LightOnCommand" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/C_LightOnCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="212" x="-7" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="dessignPatterns.command.headfirst.RemoteControlTest" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/RemoteControlTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="161" x="126" y="153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="dessignPatterns.command.headfirst.C_MacroCommand" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/C_MacroCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="190" x="245" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="dessignPatterns.command.headfirst.C_CeilingFanOffCommand" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/C_CeilingFanOffCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="240" x="475" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="dessignPatterns.command.headfirst.C_Command" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/C_Command.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="161" x="1419" y="364"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="dessignPatterns.command.headfirst.RemoteLoader" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/RemoteLoader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="161" x="461" y="153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="dessignPatterns.command.headfirst.C_LightStopCommand" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/C_LightStopCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="220" x="755" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="dessignPatterns.command.headfirst.D_ElectricDevice" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/D_ElectricDevice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="161" x="1311" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="dessignPatterns.command.headfirst.D_Stereo" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/D_Stereo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="161" x="1110" y="876"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="dessignPatterns.command.headfirst.Messages" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/Messages.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="213" x="796" y="153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="dessignPatterns.command.headfirst.D_CeilingFan" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/D_CeilingFan.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="161" x="2181" y="876"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="dessignPatterns.command.headfirst.SimpleRemoteControl" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/SimpleRemoteControl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1256" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="dessignPatterns.command.headfirst.RemoteControl" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/RemoteControl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1568" y="112"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="dessignPatterns.command.headfirst.C_StereoOnWithCDCommand" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/C_StereoOnWithCDCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="256" x="1015" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="dessignPatterns.command.headfirst.C_CeilingFanHighCommand" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/C_CeilingFanHighCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="245" x="3052" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="dessignPatterns.command.headfirst.C_CeilingFanOnCommand" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/C_CeilingFanOnCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="238" x="1713" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="dessignPatterns.command.headfirst.C_NoCommand" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/C_NoCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="161" x="1512" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="dessignPatterns.command.headfirst.D_GarageDoor" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/D_GarageDoor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="161" x="1311" y="876"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="dessignPatterns.command.headfirst.C_GarageUpCommand" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/C_GarageUpCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="224" x="1991" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="dessignPatterns.command.headfirst.UnsupportedMethodException" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/UnsupportedMethodException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="206" x="2403" y="153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="dessignPatterns.command.headfirst.C_LightOffCommand" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/C_LightOffCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="214" x="2255" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="dessignPatterns.command.headfirst.C_GarageDownCommand" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/C_GarageDownCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="240" x="2509" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="dessignPatterns.command.headfirst.D_Light" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/D_Light.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="161" x="1512" y="876"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="dessignPatterns.command.headfirst.C_StereoOffCommand" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/command/headfirst/C_StereoOffCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="223" x="2789" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="28">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="29" name="commands"/>      
+      <multiplicity id="30" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="31">    
+    <bendpoint x="1653" y="282"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="32" name="undoCommand"/>      
+      <multiplicity id="33" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <bendpoint x="1267" y="363"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="35" name="command"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="38">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="41">    
+    <bendpoint x="1825" y="333"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="42" name="onCommands"/>      
+      <multiplicity id="43" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="44">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="45">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="46" name="device"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="48">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="49">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="50">    
+    <bendpoint x="1414" y="289"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="51" name="offCommands"/>      
+      <multiplicity id="52" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="53">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="54">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="55">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="56">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="57" name="ceilingFan"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="59">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="60">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="61">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

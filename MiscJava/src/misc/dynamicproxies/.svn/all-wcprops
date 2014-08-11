@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5/MiscJava/src/misc/dynamicproxies
+END
+SomeClassProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/MiscJava/src/misc/dynamicproxies/SomeClassProxy.java
+END
+SomeClassCountingProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/MiscJava/src/misc/dynamicproxies/SomeClassCountingProxy.java
+END
+MethodCountingHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/MiscJava/src/misc/dynamicproxies/MethodCountingHandler.java
+END
+SomeClassFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/src/misc/dynamicproxies/SomeClassFactory.java
+END
+SomeClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/MiscJava/src/misc/dynamicproxies/SomeClass.java
+END
+SomeClassImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/src/misc/dynamicproxies/SomeClassImpl.java
+END
+DemoDynamicProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/src/misc/dynamicproxies/DemoDynamicProxy.java
+END

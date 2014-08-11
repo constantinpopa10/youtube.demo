@@ -1,0 +1,17 @@
+package scjp.chapter9.tests.test13;
+
+public class Starter implements Runnable {
+	void go(long id){
+		System.out.println(id);
+	}
+	
+	public static void main(String[] args) {
+		System.out.println(Thread.currentThread().getId() + " " );
+		new Starter().run();
+	}
+	
+	public void run(){
+		go(Thread.currentThread().getId());
+	}
+
+}

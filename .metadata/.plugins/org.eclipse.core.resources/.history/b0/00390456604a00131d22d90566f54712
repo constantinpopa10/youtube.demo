@@ -1,0 +1,93 @@
+package apache.commons.commons;
+
+import java.util.*;
+
+import org.apache.commons.collections.*;
+import org.apache.commons.collections4.Closure;
+import org.apache.commons.collections4.CollectionUtils;
+import org.apache.commons.lang3.StringUtils;
+public class SimpleClosure
+{
+	public static enum Gender{Male, Female};
+	public static enum State{WI};
+	public static class DTO{
+		private int i;
+		private String name;
+		private Gender gender;
+		private State state;
+		public int getI() {
+			return i;
+		}
+		public void setI(int i) {
+			this.i = i;
+		}
+		public String getName() {
+			return name;
+		}
+		public void setName(String s) {
+			this.name = s;
+		}
+		public Gender getGender() {
+			return gender;
+		}
+		public void setGender(Gender gender) {
+			this.gender = gender;
+		}
+		public State getState() {
+			return state;
+		}
+		public void setState(State state) {
+			this.state = state;
+		}
+		public DTO(int i, String s, Gender gender, State state) {
+			super();
+			this.i = i;
+			this.name = s;
+			this.gender = gender;
+			this.state = state;
+		}
+		@Override
+		public String toString() {
+			return "DTO [i=" + i + ", name=" + name + ", gender=" + gender
+					+ ", state=" + state + "]";
+		}
+		
+		
+	}
+@SuppressWarnings("unchecked")
+public static void main(String[] args)
+{
+  System.out.println("\nTest Number One Results :");
+  List<String> collectionOfWords = Arrays.asList("Java", "Example",
+                                                 "Help", "Tips", "And",
+                                                 "Tricks", "Apache",
+                                                 "Commons", "Collections");
+  // Lets call toString on every object and print it out.
+  CollectionUtils.forAllDo(collectionOfWords, new Closure()
+  {
+    public void execute(Object o)
+    {
+      assert o != null;
+      System.out.print(o.toString() + " ");
+    }
+  });
+  System.out.println("\n\nTest Number Two Results :");
+  int i = 1;
+  List<DTO> collectionOfDTOs = Arrays.asList(new DTO(i++, "Java Tips and Tricks", Gender.Male, State.WI),
+                                             new DTO(i++, "Apache Commons"      , Gender.Male, State.WI),
+                                             new DTO(i++, "Jakarta Commons"     , Gender.Male, State.WI),
+                                             new DTO(i++, "Collections"         , Gender.Male, State.WI),
+                                             new DTO(i++, "Closures"            , Gender.Male, State.WI) );
+  CollectionUtils.forAllDo(collectionOfDTOs, new Closure()
+  {
+    public void execute(Object o)
+    {
+      DTO dto = (DTO) o;
+      assert dto != null;
+      String s = StringUtils.defaultIfEmpty(dto.getName(), "null");
+      dto.setName("Yoda says, " + s + " Rocks!");
+    }
+  });
+  CollectionUtils.forAllDo(collectionOfDTOs,PrintIt.getInstance());
+}
+}

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory
+END
+FreshClams.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/FreshClams.java
+END
+Garlic.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Garlic.java
+END
+Onion.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Onion.java
+END
+Sauce.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Sauce.java
+END
+Veggies.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Veggies.java
+END
+MozzarellaCheese.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/MozzarellaCheese.java
+END
+ChicagoPizzaStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/ChicagoPizzaStore.java
+END
+PepperoniPizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/PepperoniPizza.java
+END
+MarinaraSauce.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/MarinaraSauce.java
+END
+NYPizzaIngredientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/NYPizzaIngredientFactory.java
+END
+PizzaStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/PizzaStore.java
+END
+Mushroom.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Mushroom.java
+END
+SlicedPepperoni.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/SlicedPepperoni.java
+END
+ClamPizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/ClamPizza.java
+END
+CheesePizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/CheesePizza.java
+END
+Dough.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Dough.java
+END
+PlumTomatoSauce.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/PlumTomatoSauce.java
+END
+Pepperoni.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Pepperoni.java
+END
+Pizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Pizza.java
+END
+Eggplant.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Eggplant.java
+END
+NYPizzaStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/NYPizzaStore.java
+END
+Spinach.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Spinach.java
+END
+ReggianoCheese.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/ReggianoCheese.java
+END
+ThickCrustDough.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/ThickCrustDough.java
+END
+Clams.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Clams.java
+END
+FrozenClams.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/FrozenClams.java
+END
+ParmesanCheese.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/ParmesanCheese.java
+END
+ThinCrustDough.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/ThinCrustDough.java
+END
+VeggiePizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/VeggiePizza.java
+END
+ChicagoPizzaIngredientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/ChicagoPizzaIngredientFactory.java
+END
+BlackOlives.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/BlackOlives.java
+END
+Cheese.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Cheese.java
+END
+RedPepper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/RedPepper.java
+END
+PizzaIngredientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/PizzaIngredientFactory.java
+END

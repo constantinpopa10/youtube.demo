@@ -1,0 +1,8 @@
+package dessignPatterns.composite.headfirst;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Menu extends MenuComponent {
+	List<MenuComponent> menuComponents = new ArrayList<MenuComponent>();
+}

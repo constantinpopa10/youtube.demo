@@ -1,0 +1,13 @@
+package heinz.newsletter149_LawOfHaberdashery;
+
+import java.util.concurrent.Semaphore;
+
+public class ThreadConstructTest {
+	private static final int NUMBER_OF_THREADS = 100*1000;
+	private Semaphore semaphore = new Semaphore(10);
+	private final Runnable job = new Runnable(){
+		public void run(){
+			semaphore.release();
+		}
+	};
+}

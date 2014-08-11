@@ -1,0 +1,5 @@
+package dessignPatterns.command.headFirstDP;
+
+public class C_MacroCommand {
+
+}

@@ -1,0 +1,23 @@
+package examLab.exam3;
+
+public abstract class AbstractTest extends Thread{
+	public synchronized void run(){
+		try {
+			Thread.sleep(2);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	public void main(String args[]){}
+	public void main(int args[]){}
+	
+	//private static native void fillRect(){}  -- o metoda native nu are body
+	//private strictfp abstract void fillRect(); -- o metoda privata nu poate fi si abstracta
+	
+	//protected abstract void drawRect();
+	
+	//abstract void drawRect(); -- o metoda abstracta poate avea doar un modifier de vizibilitate
+	
+	protected synchronized native void drawRect();
+}

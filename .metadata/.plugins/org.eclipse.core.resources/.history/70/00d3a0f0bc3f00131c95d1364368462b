@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <interface id="1" language="java" name="dessignPatterns.strategy.headFirst.FlyBehavior" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/strategy/headFirst/FlyBehavior.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="156" x="663" y="456"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="2" language="java" name="dessignPatterns.strategy.headFirst.FlyWithWings" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/strategy/headFirst/FlyWithWings.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="156" x="271" y="191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="dessignPatterns.strategy.headFirst.FlyNoWay" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/strategy/headFirst/FlyNoWay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="156" x="467" y="191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="dessignPatterns.strategy.headFirst.FlyRocketPowered" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/strategy/headFirst/FlyRocketPowered.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="156" x="663" y="191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="dessignPatterns.strategy.headFirst.MiniDuckSimulator" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/strategy/headFirst/MiniDuckSimulator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="156" x="75" y="191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="dessignPatterns.strategy.headFirst.MuteQuack" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/strategy/headFirst/MuteQuack.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="156" x="859" y="191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="dessignPatterns.strategy.headFirst.Squeak" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/strategy/headFirst/Squeak.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="156" x="1055" y="191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="dessignPatterns.strategy.headFirst.MallardDuck" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/strategy/headFirst/MallardDuck.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="156" x="1315" y="456"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="dessignPatterns.strategy.headFirst.Quack" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/strategy/headFirst/Quack.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="156" x="1251" y="191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="dessignPatterns.strategy.headFirst.Duck" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/strategy/headFirst/Duck.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="220" x="1447" y="191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="dessignPatterns.strategy.headFirst.ModelDuck" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/strategy/headFirst/ModelDuck.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="156" x="1511" y="456"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="12" language="java" name="dessignPatterns.strategy.headFirst.QuackBehavior" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/strategy/headFirst/QuackBehavior.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="156" x="1119" y="456"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <realization id="13">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <generalization id="14">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <realization id="15">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <realization id="16">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <realization id="17">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <realization id="18">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <association id="19">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="20" name="flyBehavior"/>      
+      <multiplicity id="21" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="22">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="23" name="quackBehavior"/>      
+      <multiplicity id="24" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="25">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

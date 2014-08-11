@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/svn/!svn/ver/3/Java8
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/4/Java8/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/4/Java8/.classpath
+END

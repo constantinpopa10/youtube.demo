@@ -1,0 +1,29 @@
+{
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED",
+    "error": "No class path info available for \u0027C:\\Program Files\\Java\\jre7\\lib\\rt.jar\u0027. Skipped."
+  },
+  "E:\\DROPBOX\\JavaWorkspace\\MiscJava\\src": {
+    "location": "E:\\DROPBOX\\JavaWorkspace\\MiscJava\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\DROPBOX\\JavaWorkspace\\MiscJava\\src\u0027. Skipped."
+  },
+  "C:\\Program Files (x86)\\Java\\jdk1.8.0\\jre\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.8.0\\jre\\lib\\rt.jar",
+    "status": "RESOLVED",
+    "error": "No class path info available for \u0027C:\\Program Files (x86)\\Java\\jdk1.8.0\\jre\\lib\\rt.jar\u0027. Skipped."
+  },
+  "D:\\Dropbox\\JavaWorkspace\\MiscJava\\src": {
+    "location": "D:\\Dropbox\\JavaWorkspace\\MiscJava\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\Dropbox\\JavaWorkspace\\MiscJava\\src\u0027. Skipped."
+  },
+  "I:\\Dropbox\\JavaWorkspace\\MiscJava\\src": {
+    "location": "I:\\Dropbox\\JavaWorkspace\\MiscJava\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027I:\\Dropbox\\JavaWorkspace\\MiscJava\\src\u0027. Skipped."
+  }
+}

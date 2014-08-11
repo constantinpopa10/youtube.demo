@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/autostart
+END
+org.apache.felix.fileinstall-autodeploy-bundles.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/autostart/org.apache.felix.fileinstall-autodeploy-bundles.cfg
+END
+org.apache.felix.scr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/autostart/org.apache.felix.scr.jar
+END
+osgi-web-container.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/autostart/osgi-web-container.jar
+END

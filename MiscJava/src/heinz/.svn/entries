@@ -1,0 +1,79 @@
+10
+
+dir
+5
+https://misc-java.googlecode.com/svn/MiscJava/src/heinz
+https://misc-java.googlecode.com/svn
+
+
+
+2013-11-06T20:49:47.695522Z
+5
+constantin.popa10
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+42254738-879e-5ec1-930a-6394677d3168
+
+newsletter07_JavaAWTEventQueue
+dir
+
+newsletter10
+dir
+
+newsletter10_WriteLayoutGuiManager
+dir
+
+newsletter11_HookShutdownCall
+dir
+
+newsletter12_FocusModalDialog
+dir
+
+newsletter13_SerializeGuiOverNetwork1
+dir
+
+newsletter14_InsaneString
+dir
+
+newsletter15_SoftReferenceHashMap
+dir
+
+newsletter16_BlockingQueue
+dir
+
+newsletter17_SwitchingOnObjectHandles
+dir
+
+newsletter17_SwitchingOnObjectHandles2
+dir
+
+newsletter18_ClassNamesDontIdentifyClass
+dir
+
+newsletter20_SerializeObjectsInDB
+dir
+
+newsletter21_NonVirtualMethodsJava
+dir
+
+newsletter22_ClassloadersRevisited
+dir
+
+newsletter23_SocketWheelHandleManyClients
+dir
+
+newsletter27_CircularArrayList
+dir
+

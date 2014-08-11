@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.Eggplant" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Eggplant.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="1957" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.NYPizzaIngredientFactory" 
+    project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/NYPizzaIngredientFactory.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="218" x="-365" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.NYPizzaStore" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/NYPizzaStore.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="4795" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="4" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.Cheese" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Cheese.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="218" x="4279" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="5" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.Veggies" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Veggies.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="218" x="2505" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="6" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.ThickCrustDough" 
+    project="MiscJava" file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/ThickCrustDough.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="22" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.CheesePizza" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/CheesePizza.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="409" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.Pizza" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Pizza.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="441" width="218" x="925" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.Clams" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Clams.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="218" x="1441" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="10" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.Spinach" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Spinach.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="2215" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.VeggiePizza" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/VeggiePizza.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="667" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.FrozenClams" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/FrozenClams.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="1183" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.Mushroom" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Mushroom.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="2473" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.RedPepper" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/RedPepper.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="2731" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.ReggianoCheese" 
+    project="MiscJava" file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/ReggianoCheese.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="4279" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.Onion" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Onion.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="2989" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.PlumTomatoSauce" 
+    project="MiscJava" file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/PlumTomatoSauce.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="3763" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.PizzaStore" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/PizzaStore.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="218" x="5053" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="19" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.Pepperoni" 
+    project="MiscJava" file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Pepperoni.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="218" x="1699" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="20" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.PizzaIngredientFactory" 
+    project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/PizzaIngredientFactory.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="218" x="452" y="740"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="21" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.MozzarellaCheese" 
+    project="MiscJava" file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/MozzarellaCheese.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="4537" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.SlicedPepperoni" 
+    project="MiscJava" file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/SlicedPepperoni.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="1699" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.ChicagoPizzaStore" 
+    project="MiscJava" file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/ChicagoPizzaStore.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="5053" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="24" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.Sauce" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Sauce.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="218" x="3763" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="25" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.ClamPizza" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/ClamPizza.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="925" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.ParmesanCheese" 
+    project="MiscJava" file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/ParmesanCheese.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="4795" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.Garlic" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Garlic.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="3247" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.FreshClams" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/FreshClams.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="1441" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="29" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.Dough" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/Dough.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="218" x="151" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="30" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.ChicagoPizzaIngredientFactory" 
+    project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/ChicagoPizzaIngredientFactory.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="218" x="-107" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.MarinaraSauce" 
+    project="MiscJava" file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/MarinaraSauce.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="4021" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.ThinCrustDough" 
+    project="MiscJava" file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/ThinCrustDough.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="280" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.PepperoniPizza" 
+    project="MiscJava" file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/PepperoniPizza.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="1183" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="dessignPatterns.factory.headfirst.abstractfactory.BlackOlives" project="MiscJava" 
+    file="/MiscJava/src/dessignPatterns/factory/headfirst/abstractfactory/BlackOlives.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="3505" y="30"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="35">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="36" name="ingredientFactory"/>      
+      <multiplicity id="37" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="38">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="29"/>  
+  </realization>  
+  <realization id="39">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <association id="40">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="41" name="sauce"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="43">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <realization id="44">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <realization id="45">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <realization id="46">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <realization id="47">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <association id="48">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="49" name="clams"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="51">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <realization id="52">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <realization id="53">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="29"/>  
+  </realization>  
+  <association id="54">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="55" name="pepperoni"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="57">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <realization id="58">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <association id="59">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="60" name="ingredientFactory"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="62">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="63" name="cheese"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="65">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="66">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <realization id="67">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <realization id="68">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <realization id="69">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <association id="70">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="71" name="ingredientFactory"/>      
+      <multiplicity id="72" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="73">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <association id="74">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="75" name="ingredientFactory"/>      
+      <multiplicity id="76" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="77">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <realization id="78">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <realization id="79">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <generalization id="80">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="81">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <generalization id="82">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="83">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="84" name="dough"/>      
+      <multiplicity id="85" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="86">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <association id="87">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="88" name="veggies"/>      
+      <multiplicity id="89" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

@@ -1,0 +1,19 @@
+package dessignPatterns.command.headFirstDP;
+
+public class C_CeilingFanHighCommand extends C_Command{
+	int prevSpeed;
+
+	@Override
+	public void execute() {
+		prevSpeed = ((D_CeilingFan) device).getSpeed();
+		
+		
+	}
+
+	@Override
+	public void undo() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

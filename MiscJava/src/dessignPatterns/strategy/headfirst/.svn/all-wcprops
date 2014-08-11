@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/strategy/headfirst
+END
+FlyWithWings.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/strategy/headfirst/FlyWithWings.java
+END
+FlyRocketPowered.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/strategy/headfirst/FlyRocketPowered.java
+END
+MuteQuack.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/strategy/headfirst/MuteQuack.java
+END
+FlyNoWay.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/strategy/headfirst/FlyNoWay.java
+END
+strategyHeadFirst.ucls
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/strategy/headfirst/strategyHeadFirst.ucls
+END
+Duck.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/strategy/headfirst/Duck.java
+END
+MallardDuck.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/strategy/headfirst/MallardDuck.java
+END
+Squeak.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/strategy/headfirst/Squeak.java
+END
+QuackBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/strategy/headfirst/QuackBehavior.java
+END
+FlyBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/strategy/headfirst/FlyBehavior.java
+END
+Quack.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/strategy/headfirst/Quack.java
+END
+MiniDuckSimulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/strategy/headfirst/MiniDuckSimulator.java
+END
+ModelDuck.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/strategy/headfirst/ModelDuck.java
+END

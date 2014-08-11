@@ -1,0 +1,345 @@
+package test.vmware;
+
+import static org.fusesource.jansi.Ansi.ansi;
+import jcurses.system.*;
+import jcurses.widgets.*;
+import jcurses.util.*;
+import jcurses.event.*;
+import static org.fusesource.jansi.Ansi.Color.*;
+import static org.fusesource.jansi.Ansi.Attribute.*;
+
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.text.MessageFormat;
+import java.util.LinkedHashMap;
+import java.util.Map;
+import java.util.NavigableSet;
+import java.util.Scanner;
+import java.util.TreeSet;
+
+import org.fusesource.jansi.Ansi.Attribute;
+import org.fusesource.jansi.AnsiConsole;
+import org.fusesource.jansi.AnsiRenderer;
+
+import coursera_algorithms.sorting.SortUtils;
+
+public class Solution {
+	private static boolean USE_CONSOLE = true;
+
+	private static String FILE_TEST = "input_test.txt";
+	private static String FILE_500 = "input500.txt";
+	private static String FILE_2000 = "input2000.txt";
+	private static String FILE_20000 = "input20000.txt";
+	private static String FILE_5000 = "input5000.txt";
+	private static String FILE_50000 = "input50000.txt";
+	private static String FILE_50000_all_1 = "input50000_all_1.txt";
+	private static String FILE_50000_all_0 = "input50000_all_0.txt";
+
+	public static final String ANSI_CLS = "\u001b[2J";
+	public static final String ANSI_HOME = "\u001b[H";
+	public static final String ANSI_BOLD = "\u001b[1m";
+	public static final String ANSI_AT55 = "\u001b[10;10H";
+	public static final String ANSI_REVERSEON = "\u001b[7m";
+	public static final String ANSI_NORMAL = "\u001b[0m";
+	public static final String ANSI_WHITEONBLUE = "\u001b[37;44m";
+	public static final String ANSI_YELLOW = "\u001a[1;33m";
+
+	private static String getFileName() {
+		return FILE_TEST;
+	}
+
+	@SuppressWarnings("unchecked")
+	public static void main(String args[]) throws Exception {
+
+		// int[] bits = readFromIn();
+		int[] bits = readFromFile();
+		// int[] bits = readFromArgs(args);
+
+		Map<Integer, Integer> zeroes = getAllZeroIntervals(bits);
+		System.out.println("Nr of elem read from input source " + bits.length);
+		long start = System.currentTimeMillis();
+
+		Map<Integer, String> sumsOf1 = new LinkedHashMap<Integer, String>();
+		NavigableSet zeroesSet = new TreeSet(zeroes.keySet());
+		int originalNrOf1 = countOnes(bits);
+		int foundZeroes = 0;
+		for (int i = 0; i < bits.length; i++) {
+			if (bits[i] == 1 || zeroes.get(i) == null)
+				continue;
+			int nrOf1 = originalNrOf1 + zeroes.get(i) - i + 1;
+			for (int j = zeroes.get(i); j < bits.length;) {
+				if (bits[j] == 1) {
+					nrOf1--;
+					j++;
+					continue;
+				}
+				foundZeroes++;
+
+				if (j != zeroes.get(i)) {
+					nrOf1 += zeroes.get(j) - j + 1;
+					j += zeroes.get(j) - j + 1;
+				} else {
+					j++;
+				}
+
+				if (sumsOf1.get(nrOf1) == null)
+					sumsOf1.put(nrOf1, i + " " + (j - 1));
+
+				// for (int m = i; m <=j ; m++){
+				// if (bits[m] == 0) nrOf0++;
+				// else nrOf1 ++;
+				// }
+
+				// int t = zeroes.get(i);
+				// nrOf0+= t-i +1;
+				// while(t<j){
+				// int nextI = (int) zeroesSet.ceiling(t+1);
+				// int t2 = zeroes.get(nextI);
+				// if (nextI<=j){
+				// nrOf0+=Math.min(t2-nextI, j-nextI)+1;
+				// nrOf1+=nextI-t-1;
+				// }else{
+				// nrOf1+=j-t;
+				// }
+				// t=t2;
+				// }
+
+				// flip(bits, i, j);
+				// sumsOf1.put(countOnes(bits), i + " " + j);
+				// flip(bits, i, j);
+			}
+		}
+
+		Integer currMax = 0;
+		for (Integer sum : sumsOf1.keySet()) {
+			currMax = Math.max(currMax, sum);
+		}
+
+		long end = System.currentTimeMillis();
+
+		System.out.println("Test duration : " + (end - start) / 1000d);
+		System.out.println("Number of flippings: " + foundZeroes);
+		System.out.println("Max number of 1: " + (foundZeroes == 0 ? bits.length : currMax) + " for positions L and R: " + sumsOf1.get(currMax));
+		if (getFileName().equals(FILE_TEST)) {
+			printBits(bits, sumsOf1.get(currMax));
+		}
+		//testPrintAnsiColors();
+	}
+
+	private static void testPrintAnsiColors() throws Exception {
+		Test2.main(null);
+		AnsiConsole.systemInstall();
+		// AnsiConsole.out.println(ANSI_CLS);
+		// AnsiConsole.out.println
+		// (ANSI_AT55 + ANSI_REVERSEON + "Hello world" + ANSI_NORMAL);
+		System.out.println();
+		// String value = String.format("%10s","TEST");
+		System.out.println(ansi().fg(RED).a("Hello").fg(GREEN).a(" World").reset());
+		// AnsiConsole.out.println
+		// (ANSI_WHITEONBLUE + "Hello world" + ANSI_NORMAL);
+		// AnsiConsole.out.print
+		// (ANSI_BOLD + "Press a key..." + ANSI_NORMAL);
+		// try {System.in.read();}catch(Exception e){}
+		// AnsiConsole.out.println(ANSI_CLS);
+		AnsiConsole.systemUninstall();
+	}
+
+	private static void printBits(int[] bits, String positions) {
+		if (USE_CONSOLE){
+			AnsiConsole.systemInstall();
+			System.setProperty("jansi.passthrough", "true");
+		}
+			
+		new AnsiRenderer().render("@|bold xxxxxxxxxxxxxxxxxxxxxxxxxxxx|@");
+		System.out.print(ansi().bg(GREEN).a("TEST").a(" WORK").a(Attribute.UNDERLINE_DOUBLE).reset());
+		System.out.println();
+		int sss = new String(new Integer(bits.length).toString()).length();
+		int lowerBound = Integer.MIN_VALUE;
+		int upperBound = Integer.MAX_VALUE;
+		if (positions != null) {
+			String[] position = positions.split("\\s");
+			lowerBound = Integer.parseInt(position[0]);
+			upperBound = Integer.parseInt(position[1]);
+
+		}
+		System.out.print(" ");  
+		for (int k = 0; k < bits.length; k++) {
+
+			System.out.print(String.format("%" + (sss + 1) + "s", "_").replace(" ", "_"));
+		}
+
+		System.out.println();
+		System.out.print("|");
+		for (int k = 0; k < bits.length; k++) {
+			printInterval(bits, sss, lowerBound, upperBound, bits[k], k);
+		}
+		System.out.print("|");
+		System.out.println();
+		System.out.print(" ");
+		for (int k = 0; k < bits.length; k++) {
+			System.out.print(String.format("%" + (sss + 1) + "s", "=").replace(" ", "="));
+		}
+		System.out.println();
+		System.out.print("|");
+		for (int k = 0; k < bits.length; k++) {
+			printInterval(bits, sss, lowerBound, upperBound, k, k);
+		}
+		System.out.print("|");
+		System.out.println();
+
+		if (USE_CONSOLE)
+			AnsiConsole.systemUninstall();
+	}
+
+	@SuppressWarnings("static-access")
+	private static void printInterval(int[] bits, int sss, int lowerBound, int upperBound, int value, int k) {
+		if (k >= lowerBound && k <= upperBound) {
+			if (USE_CONSOLE) {
+				System.out.print(ansi().bg(GREEN).a(Attribute.ITALIC).a(String.format("%" + (sss + 1) + "s", value)).reset());				
+			} else {
+				System.err.printf("%" + (sss + 1) + "s", value);
+			}
+		} else {
+			if (USE_CONSOLE) {
+				System.out.print(ansi().fg(RED).a(String.format("%" + (sss + 1) + "s", value)).reset());
+			} else {
+				System.out.printf("%" + (sss + 1) + "s", value);
+			}
+		}
+	}
+
+	private static int[] readFromFile() throws FileNotFoundException, IOException {
+		SortUtils.FILE_NAME = getFileName();
+		String[] array = SortUtils.readStrings();
+		int[] ones_twos = new int[array.length - 1];
+		for (int i = 1; i < array.length; i++) {
+			ones_twos[i - 1] = Integer.parseInt(array[i]);
+		}
+		return ones_twos;
+	}
+
+	private static Map<Integer, Integer> getAllZeroIntervals(int[] bits) {
+		Map<Integer, Integer> zeroes = new LinkedHashMap<Integer, Integer>();
+		boolean foundOne = false;
+		int currI = 0;
+		int currJ = 0;
+		for (int k = 0; k < bits.length; k++) {
+			if (bits[k] == 0) {
+				if (foundOne) {
+					currI = k;
+				} else {
+					currJ = k;
+				}
+				foundOne = false;
+			} else {
+				if (zeroes.get(currI) == null)
+					zeroes.put(currI, currJ);
+				foundOne = true;
+				currI = 0;
+				currJ = 0;
+			}
+			currJ = k;
+			if (k == bits.length - 1)
+				zeroes.put(currI, currJ);
+		}
+		return zeroes;
+	}
+
+	private static int[] readFromIn() throws IOException {
+		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+		String N = in.readLine();
+		String array = in.readLine();
+
+		int[] ones_twos = new int[Integer.parseInt(N)];
+		int k = 0;
+
+		Scanner s = new Scanner(array);
+		while (s.hasNextInt()) {
+			ones_twos[k] = s.nextInt();
+			k++;
+		}
+		s.close();
+		System.out.println("Number of elements read for In " + ones_twos.length);
+		return ones_twos;
+	}
+
+	private static int[] readFromArgs(String args[]) {
+		int[] ones_twos = new int[args.length - 1];
+		for (int i = 1; i < args.length; i++) {
+			ones_twos[i - 1] = Integer.parseInt(args[i]);
+		}
+		return ones_twos;
+	}
+
+	// private static void flip(int[] ones_twos, int start, int end) {
+	// for (int i = start; i <= end; i++) {
+	// ones_twos[i] = 1 - ones_twos[i];
+	// }
+	// }
+
+	private static Integer countOnes(int[] ones_twos) {
+		Integer sumOf1 = 0;
+		for (int i = 0; i < ones_twos.length; i++) {
+			if (ones_twos[i] == 1)
+				sumOf1++;
+		}
+		return sumOf1;
+	}
+
+}
+
+class Test2 extends Window implements ItemListener, ActionListener, ValueChangedListener, WindowListener, WidgetsConstants {
+	static Test2 window = null;
+	static TextField textfield = null;
+	static Button button = null;
+
+	public Test2(int width, int height) {
+		super(width, height, true, "JCurses Test");
+	}
+
+	public static void main(String[] args) throws Exception {
+		window = new Test2(30, 20);
+		window.init();
+	}
+
+	public void init() {
+		DefaultLayoutManager mgr = new DefaultLayoutManager();
+		mgr.bindToContainer(window.getRootPanel());
+		mgr.addWidget(new Label("Hello World!", new CharColor(CharColor.WHITE, CharColor.GREEN)), 0, 0, 20, 10, WidgetsConstants.ALIGNMENT_CENTER, WidgetsConstants.ALIGNMENT_CENTER);
+
+		textfield = new TextField(10);
+		mgr.addWidget(textfield, 0, 0, 20, 20, WidgetsConstants.ALIGNMENT_CENTER, WidgetsConstants.ALIGNMENT_CENTER);
+
+		button = new Button("Quit");
+		mgr.addWidget(button, 0, 0, 20, 30, WidgetsConstants.ALIGNMENT_CENTER, WidgetsConstants.ALIGNMENT_CENTER);
+
+		button.setShortCut('q');
+		button.addListener(this);
+		window.addListener((WindowListener) this);
+		window.show();
+	}
+
+	public void actionPerformed(ActionEvent event) {
+		Widget w = event.getSource();
+		if (w == button) {
+			new Message("HowTo", "You are about to quit", "OK").show();
+			window.close();
+		}
+	}
+
+	public void stateChanged(ItemEvent e) {
+	}
+
+	public void valueChanged(ValueChangedEvent e) {
+	}
+
+	public void windowChanged(WindowEvent event) {
+		if (event.getType() == WindowEvent.CLOSING) {
+			event.getSourceWindow().close();
+			// Toolkit.clearScreen(new CharColor(CharColor.WHITE,
+			// CharColor.BLACK));
+		}
+	}
+}

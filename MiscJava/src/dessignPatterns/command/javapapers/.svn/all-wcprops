@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/command/javapapers
+END
+SoundSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/command/javapapers/SoundSystem.java
+END
+OnCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/command/javapapers/OnCommand.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/command/javapapers/Command.java
+END
+DemoCommandPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/command/javapapers/DemoCommandPattern.java
+END
+MuteAllCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/command/javapapers/MuteAllCommand.java
+END
+Button.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/command/javapapers/Button.java
+END
+Television.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/command/javapapers/Television.java
+END
+ConsumerElectronics.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/command/javapapers/ConsumerElectronics.java
+END
+UniversalRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/command/javapapers/UniversalRemote.java
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst
+END
+GumballMachineRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/GumballMachineRemote.java
+END
+GumballMachineTestDrive.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/GumballMachineTestDrive.java
+END
+SoldOutState.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/SoldOutState.class
+END
+GumballMachine.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/GumballMachine.java
+END
+SoldState.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/SoldState.class
+END
+HasQuarterState.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/HasQuarterState.class
+END
+NoQuarterState.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/NoQuarterState.java
+END
+GumballMachine_Stub.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/GumballMachine_Stub.class
+END
+NoQuarterState.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/NoQuarterState.class
+END
+HasQuarterState.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/HasQuarterState.java
+END
+GumballMachine.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/GumballMachine.class
+END
+SoldState.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/SoldState.java
+END
+GumballMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/GumballMonitor.java
+END
+GumballMachineRemote.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/GumballMachineRemote.class
+END
+GumballMachineTestDrive.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/GumballMachineTestDrive.class
+END
+SoldOutState.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/SoldOutState.java
+END
+State.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/State.class
+END
+WinnerState.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/WinnerState.class
+END
+WinnerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/WinnerState.java
+END
+GumballMachine_Skel.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/GumballMachine_Skel.class
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/proxy/headfirst/State.java
+END

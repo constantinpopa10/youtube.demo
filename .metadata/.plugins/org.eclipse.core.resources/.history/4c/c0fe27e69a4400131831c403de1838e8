@@ -1,0 +1,5 @@
+package dessignPatterns.proxy.virtualproxy.headfirst;
+
+public class ImageProxy {
+
+}

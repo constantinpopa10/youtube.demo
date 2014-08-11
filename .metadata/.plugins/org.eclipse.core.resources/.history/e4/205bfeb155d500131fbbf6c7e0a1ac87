@@ -1,0 +1,69 @@
+package examLab.exam3;
+
+import java.util.Collection;
+import java.util.Collections;
+import java.util.LinkedList;
+import java.util.List;
+
+public class GT extends Thread {
+	public synchronized void run() {
+		doSleep(3000);
+	}
+
+	public void doSleep(long x) {
+		try {
+			Thread.sleep(x);
+		} catch (Exception e) {
+			System.out.println(e.getClass().getName());
+		}
+	}
+
+	public static void main(String[] args) {
+		// test8();
+		test9();
+		test12();
+	}
+
+	private static void test12() {
+		try {
+			try {
+				throw new InterruptedException("Sun Certified");
+			} catch (Exception e) {
+				Throwable t = e;
+				throw t;
+			} finally {
+				System.out.println("Finally-A ");
+			}
+		} catch (InterruptedException e) {
+			System.out.println("Interrupted");
+		} catch (RuntimeException e) {
+			System.out.println("RE");
+		} catch (Throwable e) {
+			System.out.println("T");
+		}
+	}
+
+	@SuppressWarnings("unchecked")
+	private static void test9() {
+		Collection<String> st = new LinkedList<String>();
+		st.add("five");
+		st.add("six");
+		st.add("seven");
+		st.add("eight");
+		System.out.println(Collections.binarySearch((List<String>) st, "ynindde"));
+	}
+
+	private static void test8() {
+		try {
+			GT g = new GT();
+			g.start();
+			sleep(1000);
+			g.interrupt();
+			new GT().doSleep(2000);
+			g.start();
+		} catch (Exception e) {
+			System.out.println(e.getClass().getName());
+		}
+	}
+
+}

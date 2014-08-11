@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.debug.ui.detail_formatters=coursera_algorithms.searching.binarySearchTree.BST$Node,key,1
+org.eclipse.jdt.debug.uijavaDebug.alertObsoleteMethods=false

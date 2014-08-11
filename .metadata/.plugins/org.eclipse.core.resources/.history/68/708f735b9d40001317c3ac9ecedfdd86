@@ -1,0 +1,5 @@
+package dessignPatterns.factory.headfirst.factorymethod;
+
+public class PizzaStore {
+
+}

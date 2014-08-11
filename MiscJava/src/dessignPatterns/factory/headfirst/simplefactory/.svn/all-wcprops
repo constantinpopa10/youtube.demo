@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/simplefactory
+END
+PepperoniPizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/simplefactory/PepperoniPizza.java
+END
+VeggiePizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/simplefactory/VeggiePizza.java
+END
+PizzaStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/simplefactory/PizzaStore.java
+END
+Pizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/simplefactory/Pizza.java
+END
+simplefactory.ucls
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/simplefactory/simplefactory.ucls
+END
+SimplePizzaFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/simplefactory/SimplePizzaFactory.java
+END
+ClamPizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/simplefactory/ClamPizza.java
+END
+CheesePizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/simplefactory/CheesePizza.java
+END

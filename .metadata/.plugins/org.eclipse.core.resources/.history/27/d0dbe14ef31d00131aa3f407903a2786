@@ -1,0 +1,5 @@
+package dessignPatterns.chainOfResponsibility.oodesign;
+
+public class ConcreteHandlerTwo {
+
+}

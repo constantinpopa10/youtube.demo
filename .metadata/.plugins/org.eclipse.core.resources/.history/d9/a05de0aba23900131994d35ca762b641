@@ -1,0 +1,13 @@
+package examLab.Diagnostic.q12;
+
+public class A {
+	private String runNow(){
+		return "High";
+	}
+	
+	static class B extends A{
+		public String runNow(){
+			return "Low";
+		}
+	}
+}

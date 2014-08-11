@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/!svn/ver/2/MiscJava
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/5/MiscJava/test.txt
+END
+textss2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/5/MiscJava/textss2.txt
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/5/MiscJava/.project
+END
+texts2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/5/MiscJava/texts2.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/MiscJava/.classpath
+END

@@ -1,0 +1,5 @@
+package dessignPatterns.composite.headfirst;
+
+public abstract class MenuComponent {
+
+}

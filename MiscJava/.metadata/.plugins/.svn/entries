@@ -1,0 +1,49 @@
+10
+
+dir
+5
+https://misc-java.googlecode.com/svn/MiscJava/.metadata/.plugins
+https://misc-java.googlecode.com/svn
+
+
+
+2013-11-06T20:49:47.695522Z
+5
+constantin.popa10
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+42254738-879e-5ec1-930a-6394677d3168
+
+org.eclipse.core.resources
+dir
+
+org.eclipse.core.runtime
+dir
+
+org.eclipse.e4.workbench
+dir
+
+org.eclipse.jdt.core
+dir
+
+org.eclipse.jdt.ui
+dir
+
+org.eclipse.ui.ide
+dir
+
+org.eclipse.ui.workbench
+dir
+

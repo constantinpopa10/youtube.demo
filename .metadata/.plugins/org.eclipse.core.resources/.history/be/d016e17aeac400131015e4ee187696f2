@@ -1,0 +1,45 @@
+package service;
+
+import java.util.*;
+
+public class StockSymbolService {
+  public String findCompany(String symbol) {
+    System.out.printf("Looking up '%s'%n", symbol);
+    if ((isEmpty(symbol))) {
+      return("Missing stock symbol");
+    }
+    String company = symbolMap.get(symbol.toUpperCase());
+    if (company != null) {
+      return(company);
+    } else {
+      return(String.format("Unknown symbol: %s.", symbol));
+    }
+  }
+  
+  public void updateCompany(String symbol, String company) {
+    System.out.printf("Updating '%s'='%s'%n", symbol, company);
+    symbolMap.put(symbol.toUpperCase(), company);
+  }
+  
+  private static String[][] companies = 
+    { { "AAPL", "Apple Inc." },
+      { "IBM",  "International Business Machines Corp." },
+      { "JAVA", "Sun Microsystems Inc." },
+      { "MSFT", "Microsoft Corp." },
+      { "ORCL", "Oracle Corp." },
+      { "RHT",  "Red Hat Inc." }
+    };
+  
+  private static Map<String,String> symbolMap =
+    new HashMap<String,String>();
+  
+  static {
+    for(String[] company: companies) {
+      symbolMap.put(company[0], company[1]);
+    } 
+  }
+  
+  private boolean isEmpty(String val) {
+    return((val == null) || val.trim().equals(""));
+  }
+}

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/observer/headfirst/custom
+END
+WeatherStation.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/observer/headfirst/custom/WeatherStation.java
+END
+StatisticsDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/observer/headfirst/custom/StatisticsDisplay.java
+END
+WeatherData.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/observer/headfirst/custom/WeatherData.java
+END
+Subject.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/observer/headfirst/custom/Subject.java
+END
+DisplayElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/observer/headfirst/custom/DisplayElement.java
+END
+ForecastDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/observer/headfirst/custom/ForecastDisplay.java
+END
+Observer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/observer/headfirst/custom/Observer.java
+END
+observerCustom.ucls
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/observer/headfirst/custom/observerCustom.ucls
+END
+CurrentConditionsDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/observer/headfirst/custom/CurrentConditionsDisplay.java
+END

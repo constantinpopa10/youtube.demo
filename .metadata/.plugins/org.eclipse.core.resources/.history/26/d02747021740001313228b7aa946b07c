@@ -1,0 +1,5 @@
+package dessignPatterns.observer.propertyChangeListener;
+
+public class PropertyChangeListenerExample {
+
+}

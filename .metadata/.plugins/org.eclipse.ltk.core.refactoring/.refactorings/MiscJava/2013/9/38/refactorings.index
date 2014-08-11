@@ -1,0 +1,16 @@
+1379241566553	Move compilation unit
+1379241572731	Move compilation units
+1379441913925	Delete element
+1379442997244	Rename type 'Command'
+1379443006253	Rename type 'LightOnCommand'
+1379443019755	Rename type 'ElectricDevice'
+1379443026834	Rename type 'Light'
+1379443202859	Rename method 'on'
+1379443208962	Rename method 'off'
+1379443733186	Copy compilation unit
+1379444596911	Rename type 'GarageDoor'
+1379444640348	Copy compilation unit
+1379444650985	Rename type 'C_GarageOnCommand'
+1379444695117	Rename local variable 'lightOnCommand'
+1379445122832	Rename local variable 'command'
+1379445138847	Rename local variable 'device'

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void test()&apos; from &apos;examLab.exam2.q48.testArray.main()&apos; to &apos;examLab.exam2.q48.testArray&apos;&#x0D;&#x0A;- Original project: &apos;MiscJava&apos;&#x0D;&#x0A;- Method name: &apos;test&apos;&#x0D;&#x0A;- Destination type: &apos;examLab.exam2.q48.testArray&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;test&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;examLab.exam2.q48{testArray.java" name="test" replace="false" selection="182 400" stamp="1396382764770" version="1.0" visibility="2"/>
+</session>

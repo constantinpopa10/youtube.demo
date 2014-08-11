@@ -1,0 +1,29 @@
+package examLab.exam3;
+
+public class GT extends Thread {
+	public synchronized void run(){
+		doSleep(3000);
+	}
+	
+	public void doSleep(long x){
+		try {
+			Thread.sleep(x);
+		} catch (Exception e) {
+			System.out.println(e.getClass().getName());
+		}
+	}
+	
+	public static void main(String[] args) {
+		try {
+			GT g = new GT();
+			g.start();
+			sleep(1000);
+			g.interrupt();
+			new GT().doSleep(2000);
+			g.start();
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+	}
+
+}

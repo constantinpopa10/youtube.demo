@@ -1,0 +1,9 @@
+package dessignPatterns.command.headFirstDP;
+
+public abstract class C_Command {
+	protected D_ElectricDevice device;
+
+	public abstract void execute();
+	public abstract void undo();
+
+}

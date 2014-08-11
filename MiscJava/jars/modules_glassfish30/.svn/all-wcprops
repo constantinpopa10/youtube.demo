@@ -1,0 +1,1499 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30
+END
+console-jruby-plugin-help-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jruby-plugin-help-l10n.jar
+END
+glassfish.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/glassfish.jar
+END
+grizzly-cometd.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/grizzly-cometd.jar
+END
+cmp-ejb-mapping.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/cmp-ejb-mapping.jar
+END
+javax.security.auth.message.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/javax.security.auth.message.jar
+END
+jta.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jta.jar
+END
+org.apache.felix.fileinstall.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/org.apache.felix.fileinstall.jar
+END
+grizzly-portunif.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/grizzly-portunif.jar
+END
+console-ejb-plugin-help-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-ejb-plugin-help-l10n.jar
+END
+org.eclipse.persistence.jpa.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/org.eclipse.persistence.jpa.jar
+END
+admin-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/admin-core.jar
+END
+annotation-framework.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/annotation-framework.jar
+END
+console-common-plugin-help-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-common-plugin-help-l10n.jar
+END
+orb-enabler.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/orb-enabler.jar
+END
+cmp-model.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/cmp-model.jar
+END
+grizzly-http-servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/grizzly-http-servlet.jar
+END
+weld-osgi-bundle.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/weld-osgi-bundle.jar
+END
+amx-config.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/amx-config.jar
+END
+javahelp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/javahelp.jar
+END
+console-community-branding-plugin-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-community-branding-plugin-l10n.jar
+END
+jsp-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jsp-impl.jar
+END
+gmbal.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/gmbal.jar
+END
+org.apache.felix.shell.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/org.apache.felix.shell.jar
+END
+auto-depends.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/auto-depends.jar
+END
+jts.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jts.jar
+END
+console-community-branding-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-community-branding-plugin.jar
+END
+appclient-connector.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/appclient-connector.jar
+END
+jstl-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jstl-impl.jar
+END
+pkg-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/pkg-client.jar
+END
+cli-optional.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/cli-optional.jar
+END
+commons-codec-repackaged.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/commons-codec-repackaged.jar
+END
+console-common-help.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-common-help.jar
+END
+flashlight-extra-jdk-packages.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/flashlight-extra-jdk-packages.jar
+END
+javax.security.jacc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/javax.security.jacc.jar
+END
+gf-ejb-connector.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/gf-ejb-connector.jar
+END
+console-corba-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-corba-plugin.jar
+END
+webservices-connector.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/webservices-connector.jar
+END
+bean-validator.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/bean-validator.jar
+END
+jsr311-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jsr311-api.jar
+END
+gf-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/gf-client.jar
+END
+glassfish-corba-orbgeneric.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/glassfish-corba-orbgeneric.jar
+END
+mimepull.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/mimepull.jar
+END
+webservices.security.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/webservices.security.jar
+END
+connectors-inbound-runtime.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/connectors-inbound-runtime.jar
+END
+org.eclipse.persistence.oracle.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/org.eclipse.persistence.oracle.jar
+END
+console-jdbc-plugin-help.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jdbc-plugin-help.jar
+END
+work-management.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/work-management.jar
+END
+amx-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/amx-core.jar
+END
+console-jdbc-plugin-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jdbc-plugin-l10n.jar
+END
+console-web-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-web-plugin.jar
+END
+org.apache.felix.shell.tui.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/org.apache.felix.shell.tui.jar
+END
+jettison.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jettison.jar
+END
+monitoring-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/monitoring-core.jar
+END
+console-common-full-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-common-full-plugin.jar
+END
+registration-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/registration-api.jar
+END
+console-common-full-plugin-help.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-common-full-plugin-help.jar
+END
+internal-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/internal-api.jar
+END
+console-common-full-plugin-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-common-full-plugin-l10n.jar
+END
+console-updatecenter-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-updatecenter-plugin.jar
+END
+org.apache.felix.shell.remote.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/org.apache.felix.shell.remote.jar
+END
+schema2beans-repackaged.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/schema2beans-repackaged.jar
+END
+acc-config.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/acc-config.jar
+END
+console-ejb-lite-plugin-help-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-ejb-lite-plugin-help-l10n.jar
+END
+web-glue.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/web-glue.jar
+END
+hk2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/hk2.jar
+END
+jersey-multipart.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jersey-multipart.jar
+END
+cli-framework.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/cli-framework.jar
+END
+glassfish-corba-omgapi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/glassfish-corba-omgapi.jar
+END
+glassfish-registration.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/glassfish-registration.jar
+END
+gf-jruby-connector.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/gf-jruby-connector.jar
+END
+transaction-internal-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/transaction-internal-api.jar
+END
+dataprovider.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/dataprovider.jar
+END
+cmp-generator-database.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/cmp-generator-database.jar
+END
+soap-tcp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/soap-tcp.jar
+END
+console-jca-plugin-help.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jca-plugin-help.jar
+END
+glassfish-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/glassfish-api.jar
+END
+glassfish-naming.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/glassfish-naming.jar
+END
+console-ejb-lite-plugin-help.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-ejb-lite-plugin-help.jar
+END
+console-jca-plugin-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jca-plugin-l10n.jar
+END
+console-ejb-lite-plugin-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-ejb-lite-plugin-l10n.jar
+END
+glassfish-mbeanserver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/glassfish-mbeanserver.jar
+END
+javaee-kernel.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/javaee-kernel.jar
+END
+webui-jsf-plugin-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/webui-jsf-plugin-l10n.jar
+END
+javax.servlet.jsp.jstl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/javax.servlet.jsp.jstl.jar
+END
+ldapbp-repackaged.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/ldapbp-repackaged.jar
+END
+upgrade-tool.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/upgrade-tool.jar
+END
+console-web-plugin-help.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-web-plugin-help.jar
+END
+web-embed-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/web-embed-impl.jar
+END
+config-types.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/config-types.jar
+END
+console-web-plugin-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-web-plugin-l10n.jar
+END
+admin-util-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/admin-util-l10n.jar
+END
+connectors-internal-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/connectors-internal-api.jar
+END
+ejb.security.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/ejb.security.jar
+END
+deployment-javaee-full.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/deployment-javaee-full.jar
+END
+gf-connectors-connector.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/gf-connectors-connector.jar
+END
+console-ejb-plugin-help.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-ejb-plugin-help.jar
+END
+console-ejb-plugin-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-ejb-plugin-l10n.jar
+END
+container-common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/container-common.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/mail.jar
+END
+javax.jms.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/javax.jms.jar
+END
+glassfish-corba-asm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/glassfish-corba-asm.jar
+END
+grizzly-rcm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/grizzly-rcm.jar
+END
+osgi-container.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/osgi-container.jar
+END
+console-core-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-core-l10n.jar
+END
+jsf-connector.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jsf-connector.jar
+END
+stats77.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/stats77.jar
+END
+gf-client-module.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/gf-client-module.jar
+END
+security.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/security.jar
+END
+console-jts-plugin-help.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jts-plugin-help.jar
+END
+config.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/config.jar
+END
+deployment-javaee-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/deployment-javaee-core.jar
+END
+console-jts-plugin-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jts-plugin-l10n.jar
+END
+console-web-plugin-help-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-web-plugin-help-l10n.jar
+END
+server-mgmt-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/server-mgmt-l10n.jar
+END
+console-jms-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jms-plugin.jar
+END
+glassfish-corba-newtimer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/glassfish-corba-newtimer.jar
+END
+war-util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/war-util.jar
+END
+osgi-adapter.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/osgi-adapter.jar
+END
+amx-config-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/amx-config-impl.jar
+END
+console-ejb-lite-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-ejb-lite-plugin.jar
+END
+amx-core-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/amx-core-impl.jar
+END
+grizzly-comet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/grizzly-comet.jar
+END
+console-jdbc-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jdbc-plugin.jar
+END
+console-jts-plugin-help-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jts-plugin-help-l10n.jar
+END
+launcher-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/launcher-l10n.jar
+END
+connectors-runtime.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/connectors-runtime.jar
+END
+console-jdbc-plugin-help-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jdbc-plugin-help-l10n.jar
+END
+deployment-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/deployment-client.jar
+END
+glassfish-extra-jre-packages.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/glassfish-extra-jre-packages.jar
+END
+kernel-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/kernel-l10n.jar
+END
+cmp-support-ejb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/cmp-support-ejb.jar
+END
+jspcaching-connector.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jspcaching-connector.jar
+END
+console-ejb-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-ejb-plugin.jar
+END
+persistence-common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/persistence-common.jar
+END
+jpa-connector.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jpa-connector.jar
+END
+grizzly-framework.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/grizzly-framework.jar
+END
+jsr109-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jsr109-impl.jar
+END
+deployment-autodeploy.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/deployment-autodeploy.jar
+END
+grizzly-container.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/grizzly-container.jar
+END
+orb-connector.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/orb-connector.jar
+END
+osgi-main.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/osgi-main.jar
+END
+amx-j2ee-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/amx-j2ee-impl.jar
+END
+console-updatecenter-plugin-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-updatecenter-plugin-l10n.jar
+END
+cmp-utility.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/cmp-utility.jar
+END
+javax.resource.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/javax.resource.jar
+END
+ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/ant.jar
+END
+upgrade-tool-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/upgrade-tool-l10n.jar
+END
+console-jms-plugin-help.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jms-plugin-help.jar
+END
+tiger-types-osgi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/tiger-types-osgi.jar
+END
+console-jms-plugin-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jms-plugin-l10n.jar
+END
+grizzly-http.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/grizzly-http.jar
+END
+monitoring-core-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/monitoring-core-l10n.jar
+END
+javax.servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/javax.servlet.jar
+END
+web-embed-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/web-embed-api.jar
+END
+web-ajp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/web-ajp.jar
+END
+console-common-plugin-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-common-plugin-l10n.jar
+END
+console-corba-plugin-help-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-corba-plugin-help-l10n.jar
+END
+deployment-common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/deployment-common.jar
+END
+jersey-gf-statsproviders.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jersey-gf-statsproviders.jar
+END
+grizzly-jruby-module.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/grizzly-jruby-module.jar
+END
+web-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/web-core.jar
+END
+ejb-internal-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/ejb-internal-api.jar
+END
+jmxremote_optional-repackaged.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jmxremote_optional-repackaged.jar
+END
+web-gui-plugin-common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/web-gui-plugin-common.jar
+END
+branding.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/branding.jar
+END
+org.eclipse.persistence.asm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/org.eclipse.persistence.asm.jar
+END
+jdbc-admin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jdbc-admin.jar
+END
+cli-framework-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/cli-framework-l10n.jar
+END
+dbschema-repackaged.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/dbschema-repackaged.jar
+END
+jstl-connector.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jstl-connector.jar
+END
+webservices-osgi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/webservices-osgi.jar
+END
+glassfish-corba-codegen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/glassfish-corba-codegen.jar
+END
+javax.ejb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/javax.ejb.jar
+END
+org.apache.felix.configadmin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/org.apache.felix.configadmin.jar
+END
+el-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/el-impl.jar
+END
+glassfish-ee-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/glassfish-ee-api.jar
+END
+jackson-core-asl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jackson-core-asl.jar
+END
+javax.transaction.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/javax.transaction.jar
+END
+console-common-full-plugin-help-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-common-full-plugin-help-l10n.jar
+END
+connectors-admin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/connectors-admin.jar
+END
+console-jms-plugin-help-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jms-plugin-help-l10n.jar
+END
+sysnet-registration-repackaged.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/sysnet-registration-repackaged.jar
+END
+amx-j2ee.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/amx-j2ee.jar
+END
+jsf-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jsf-api.jar
+END
+server-mgmt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/server-mgmt.jar
+END
+admin-cli-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/admin-cli-l10n.jar
+END
+console-jca-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jca-plugin.jar
+END
+config-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/config-api.jar
+END
+grizzly-utils.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/grizzly-utils.jar
+END
+management-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/management-api.jar
+END
+ejb-container.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/ejb-container.jar
+END
+console-jruby-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jruby-plugin.jar
+END
+jersey-gf-bundle.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jersey-gf-bundle.jar
+END
+websecurity.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/websecurity.jar
+END
+glassfish-oracle-jdbc-driver-packages.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/glassfish-oracle-jdbc-driver-packages.jar
+END
+flashlight-framework.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/flashlight-framework.jar
+END
+glassfish-corba-csiv2-idl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/glassfish-corba-csiv2-idl.jar
+END
+javax.management.j2ee.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/javax.management.j2ee.jar
+END
+console-jruby-plugin-help.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jruby-plugin-help.jar
+END
+woodstox-osgi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/woodstox-osgi.jar
+END
+console-corba-plugin-help.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-corba-plugin-help.jar
+END
+hk2-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/hk2-core.jar
+END
+console-jruby-plugin-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jruby-plugin-l10n.jar
+END
+flashlight-agent.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/flashlight-agent.jar
+END
+glassfish-corba-orb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/glassfish-corba-orb.jar
+END
+console-corba-plugin-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-corba-plugin-l10n.jar
+END
+org.eclipse.persistence.core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/org.eclipse.persistence.core.jar
+END
+inmemory.jacc.provider.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/inmemory.jacc.provider.jar
+END
+launcher.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/launcher.jar
+END
+console-common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-common.jar
+END
+web-naming.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/web-naming.jar
+END
+admin-cli.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/admin-cli.jar
+END
+grizzly-jruby.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/grizzly-jruby.jar
+END
+webui-jsf-suntheme-plugin-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/webui-jsf-suntheme-plugin-l10n.jar
+END
+common-util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/common-util.jar
+END
+grizzly-config.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/grizzly-config.jar
+END
+gf-web-connector.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/gf-web-connector.jar
+END
+web-cli.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/web-cli.jar
+END
+cmp-enhancer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/cmp-enhancer.jar
+END
+amx-ext-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/amx-ext-impl.jar
+END
+org.eclipse.persistence.antlr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/org.eclipse.persistence.antlr.jar
+END
+orb-iiop.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/orb-iiop.jar
+END
+jsf-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jsf-impl.jar
+END
+antlr-repackaged.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/antlr-repackaged.jar
+END
+cmp-internal-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/cmp-internal-api.jar
+END
+jaxb-osgi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jaxb-osgi.jar
+END
+api-exporter.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/api-exporter.jar
+END
+jsftemplating.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jsftemplating.jar
+END
+registration-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/registration-impl.jar
+END
+cmp-support-sqlstore.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/cmp-support-sqlstore.jar
+END
+org.eclipse.persistence.jpa.modelgen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/org.eclipse.persistence.jpa.modelgen.jar
+END
+javax.enterprise.deploy.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/javax.enterprise.deploy.jar
+END
+jms-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jms-core.jar
+END
+rest-service.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/rest-service.jar
+END
+kernel.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/kernel.jar
+END
+admin-util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/admin-util.jar
+END
+config-api-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/config-api-l10n.jar
+END
+dol.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/dol.jar
+END
+appclient.security.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/appclient.security.jar
+END
+javax.servlet.jsp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/javax.servlet.jsp.jar
+END
+deployment-admin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/deployment-admin.jar
+END
+javax.persistence.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/javax.persistence.jar
+END
+appclient-server-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/appclient-server-core.jar
+END
+console-jts-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jts-plugin.jar
+END
+weld-integration.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/weld-integration.jar
+END
+asm-all-repackaged.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/asm-all-repackaged.jar
+END
+console-jca-plugin-help-l10n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-jca-plugin-help-l10n.jar
+END
+console-plugin-service.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/console-plugin-service.jar
+END
+jms-admin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/jms-admin.jar
+END

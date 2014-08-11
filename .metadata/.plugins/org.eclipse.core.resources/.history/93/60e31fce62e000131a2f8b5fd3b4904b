@@ -1,0 +1,13 @@
+package examLab.exam3.q33;
+
+import java.io.File;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
+
+public class DateGadgets {
+	public static void main(String[] args) {
+		Calendar cd = Calendar.getInstance();
+		GregorianCalendar gc= (GregorianCalendar) GregorianCalendar.getInstance();
+		File file = new File(null).equals(null);
+	}
+}

@@ -1,0 +1,11 @@
+package examLab.exam3.q33;
+
+import java.util.Calendar;
+import java.util.Date;
+
+public class DateGadgets {
+	public static void main(String[] args) {
+		Calendar cd = Calendar.getInstance();
+		
+	}
+}

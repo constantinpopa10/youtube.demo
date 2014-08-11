@@ -1,0 +1,17 @@
+INDEX VERSION 1.126
+C:\Users\Costi\Dropbox\JavaWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\81524113.index
+\stock-symbol-service\src
+C:\Users\Costi\Dropbox\JavaWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3385786905.index
+\TestWS\src
+C:\Users\Costi\Dropbox\JavaWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\380794558.index
+\glassfish-test\src
+C:\Users\Costi\Dropbox\JavaWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\805470664.index
+\stock-symbol-service\src
+D:\Dropbox\JavaWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1037268520.index
+\LILLDEP\src
+C:\Users\Costi\Dropbox\JavaWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3531563304.index
+\stock-symbol-service\src
+C:\Users\Costi\Dropbox\JavaWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1939499147.index
+\TestWS\src
+C:\Users\Costi\Dropbox\JavaWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1055768097.index
+\TestWS\src

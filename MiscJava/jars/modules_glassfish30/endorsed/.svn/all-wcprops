@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/endorsed
+END
+webservices-api-osgi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/endorsed/webservices-api-osgi.jar
+END
+jaxb-api-osgi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/endorsed/jaxb-api-osgi.jar
+END
+javax.annotation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/MiscJava/jars/modules_glassfish30/endorsed/javax.annotation.jar
+END

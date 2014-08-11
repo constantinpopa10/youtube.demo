@@ -1,0 +1,13 @@
+<root>
+  <facet id="jpt.jaxb">
+    <node name="classgen"/>
+    <node name="platform">
+      <attribute name="platform-id" value="generic_2_1"/>
+    </node>
+    <node name="schemas">
+      <node name="schema-1">
+        <attribute name="location" value="platform:/resource/test jaxb/src/test.xsd"/>
+      </node>
+    </node>
+  </facet>
+</root>

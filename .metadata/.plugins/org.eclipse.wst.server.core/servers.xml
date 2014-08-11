@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="1" auto-publish-time="0" hostname="localhost" id="GlassFish 3.1 at localhost" name="GlassFish 3.1 at localhost" runtime-id="GlassFish 3.1" server-type="org.glassfish.jst.server.glassfish31" server-type-id="org.glassfish.jst.server.glassfish31" start-timeout="240" stop-timeout="240" timestamp="7">
+    <list key="Generic_Server_Modules_List" value0="org.eclipse.jst.jee.server:messages"/>
+    <map key="generic_server_instance_properties" sunappserver.adminname="admin" sunappserver.adminpassword="" sunappserver.adminserverportnumber="4848" sunappserver.domainpath="C:\Users\Costi\Google Drive\Java_Workspaces\Glassfish3_1\glassfish3\glassfish\domains\domain1" sunappserver.keepSessions="true" sunappserver.serveraddress="localhost" sunappserver.serverportnumber="8080"/>
+    <list key="modules" value0="messages::org.eclipse.jst.jee.server:messages::jst.ejb::3.0"/>
+  </server>
+  <server auto-publish-setting="1" auto-publish-time="0" hostname="localhost" id="GlassFish 4.0 at localhost" name="GlassFish 4.0 at localhost" runtime-id="GlassFish 4.0" server-type="org.glassfish.jst.server.glassfish4" server-type-id="org.glassfish.jst.server.glassfish4" start-timeout="240" stop-timeout="240" timestamp="0">
+    <map key="generic_server_instance_properties" sunappserver.adminname="admin" sunappserver.adminpassword="" sunappserver.adminserverportnumber="4848" sunappserver.domainpath="C:\Users\Costi\Google Drive\Java_Workspaces\Glassfish40\glassfish4\glassfish\domains\domain1" sunappserver.keepSessions="true" sunappserver.serveraddress="localhost"/>
+  </server>
+</servers>

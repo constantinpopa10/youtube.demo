@@ -1,0 +1,15 @@
+1398352041772	Extract method 'readStrings'
+1398361048548	Rename local variable 'a'
+1398361060119	Rename local variable 'aux'
+1398361072694	Rename local variable 'src'
+1398361086819	Rename local variable 'dst'
+1398432606085	Delete element
+1398440100590	Extract method 'readFromIn'
+1398446900313	Rename local variable 'ones_twos'
+1398451315313	Extract method 'getAllZeroIntervals'
+1398471770770	Extract method 'printBits'
+1398510619303	Extract method 'printInterval'
+1398515146717	Move compilation unit
+1398515435366	Extract method 'printAnsiColors'
+1398517497059	Rename method 'printAnsiColors'
+1398523552538	Rename local variable 'nrOfFlippings'

@@ -1,0 +1,16 @@
+package examLab.exam3;
+
+interface IT {
+	int x = 1;
+}
+
+class CT {
+	int x = 2;
+}
+
+public class MC extends CT implements IT {
+	int y = x+2;
+	public static void main(String[] args) {
+		System.out.println(x++);
+	}
+}

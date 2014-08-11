@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/factorymethod
+END
+PizzaTestDrive.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/factorymethod/PizzaTestDrive.java
+END
+NYStyleClamPizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/factorymethod/NYStyleClamPizza.java
+END
+ChicagoStyleClamPizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/factorymethod/ChicagoStyleClamPizza.java
+END
+NYStyleCheesePizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/factorymethod/NYStyleCheesePizza.java
+END
+ChicagoStyleCheesePizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/factorymethod/ChicagoStyleCheesePizza.java
+END
+PizzaStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/factorymethod/PizzaStore.java
+END
+Pizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/factorymethod/Pizza.java
+END
+factoryMethod.ucls
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/factorymethod/factoryMethod.ucls
+END
+ChicagoStylePepperoniPizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/factorymethod/ChicagoStylePepperoniPizza.java
+END
+NYStyleVeggiePizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/factorymethod/NYStyleVeggiePizza.java
+END
+ChicagoStyleVeggiePizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/factorymethod/ChicagoStyleVeggiePizza.java
+END
+NYStylePepperoniPizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/factorymethod/NYStylePepperoniPizza.java
+END
+NYPizzaStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/factorymethod/NYPizzaStore.java
+END
+ChicagoPizzaStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/MiscJava/src/dessignPatterns/factory/headfirst/factorymethod/ChicagoPizzaStore.java
+END

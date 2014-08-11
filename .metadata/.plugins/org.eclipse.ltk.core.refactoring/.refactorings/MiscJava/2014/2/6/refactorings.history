@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;javatutorials.internationalization.formatting.NumericDigits.java&apos; to &apos;ArabicDigits.java&apos;&#x0D;&#x0A;- Original project: &apos;MiscJava&apos;&#x0D;&#x0A;- Original element: &apos;javatutorials.internationalization.formatting.NumericDigits.java&apos;&#x0D;&#x0A;- Renamed element: &apos;javatutorials.internationalization.formatting.ArabicDigits.java&apos;" description="Rename compilation unit &apos;NumericDigits.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;javatutorials.internationalization.formatting{NumericDigits.java" name="ArabicDigits.java" references="false" stamp="1391373898787" version="1.0"/>
+</session>
